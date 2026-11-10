@@ -74,8 +74,9 @@ jobs:
         if: ${{ !contains(github.event.inputs.version, '-') }}
         env:
           PREV: ${{ env.PREV }}
+          VERSION: ${{ github.event.inputs.version }}
         run: |
-          git-cliff ${{ env.PREV }}..HEAD --tag v${{ github.event.inputs.version }} --prepend CHANGELOG.md
+          git-cliff $PREV..HEAD --tag v$VERSION --prepend CHANGELOG.md
           if [ -n "$(git status --porcelain)" ]; then
           git commit -am "docs: Update CHANGELOG.md"
           else
