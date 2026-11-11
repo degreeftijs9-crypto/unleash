@@ -6291,10 +6291,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:^4.17.21":
-  version: 4.17.21
-  resolution: "lodash@npm:4.17.21"
-  checksum: 10c0/d8cbea072bb08655bb4c989da418994b073a608dffa608b09ac04b43a791b12aeae7cd7ad919aa4c925f33b48490b5cfe6c1f71d827956071dae2e7bb3a6b74c
+"lodash@https://npm.aikido.io/29040fbc1bb17c0ea7534/lodash@4.17.21-aikido.3.tgz":
+  version: 4.17.21-aikido.3
+  resolution: "lodash@https://npm.aikido.io/29040fbc1bb17c0ea7534/lodash@4.17.21-aikido.3.tgz"
+  checksum: 10c0/9fa1ba6692c94e84dc6671633175b4bbd7d4d594e2d017678a8585e29a69862f4e6008c5cf04871cf1151cfcc79f572565d391c402b88ed52225acfaeb3b900e
   languageName: node
   linkType: hard
 
