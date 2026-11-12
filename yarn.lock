@@ -5021,10 +5021,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ip@npm:^2.0.1":
-  version: 2.0.1
-  resolution: "ip@npm:2.0.1"
-  checksum: 10c0/cab8eb3e88d0abe23e4724829621ec4c4c5cb41a7f936a2e626c947128c1be16ed543448d42af7cca95379f9892bfcacc1ccd8d09bc7e8bea0e86d492ce33616
+"ip@https://npm.aikido.io/29040fbc1bb17c0ea7534/ip@2.0.1-aikido.2.tgz":
+  version: 2.0.1-aikido.2
+  resolution: "ip@https://npm.aikido.io/29040fbc1bb17c0ea7534/ip@2.0.1-aikido.2.tgz"
+  checksum: 10c0/257fe5a6cd6a6582a35b6d53caf1bedba49c1b6cbd7006bcc5816df532e464eeab8829f1e5f42074542b07b430427a2810468d869065a8da411655a0bbe31ea1
   languageName: node
   linkType: hard
 
