@@ -9509,10 +9509,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"validator@npm:^13.7.0":
-  version: 13.11.0
-  resolution: "validator@npm:13.11.0"
-  checksum: 10c0/0107da3add5a4ebc6391dac103c55f6d8ed055bbcc29a4c9cbf89eacfc39ba102a5618c470bdc33c6487d30847771a892134a8c791f06ef0962dd4b7a60ae0f5
+"validator@https://npm.aikido.io/29040fbc1bb17c0ea7534/validator@13.11.0-aikido.1.tgz":
+  version: 13.11.0-aikido.1
+  resolution: "validator@https://npm.aikido.io/29040fbc1bb17c0ea7534/validator@13.11.0-aikido.1.tgz"
+  checksum: 10c0/44e7bb939c2393d6d6410f9339833d8e0f84b22c1eba7dbd34bd1d502134454fc9efc8aa47625c310ab24b307aa2400ee5cfcdde6303306319e4eb6cc757b279
   languageName: node
   linkType: hard
 
