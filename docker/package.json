@@ -25,7 +25,8 @@
     "ip": "^2.0.1",
     "minimatch": "^5.0.0",
     "path-scurry": "1.11.1",
-    "semver": "^7.5.3"
+    "semver": "^7.5.3",
+    "lodash@npm:^4.17.21": "https://npm.aikido.io/29040fbc1bb17c0ea7534/lodash@4.17.21-aikido.3.tgz"
   },
   "overrides": {
     "set-value": "^4.0.1",
