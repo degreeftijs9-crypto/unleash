@@ -2059,10 +2059,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lodash@npm:^4.17.21":
-  version: 4.17.21
-  resolution: "lodash@npm:4.17.21"
-  checksum: 10c0/d8cbea072bb08655bb4c989da418994b073a608dffa608b09ac04b43a791b12aeae7cd7ad919aa4c925f33b48490b5cfe6c1f71d827956071dae2e7bb3a6b74c
+"lodash@https://npm.aikido.io/29040fbc1bb17c0ea7534/lodash@4.17.21-aikido.3.tgz":
+  version: 4.17.21-aikido.3
+  resolution: "lodash@https://npm.aikido.io/29040fbc1bb17c0ea7534/lodash@4.17.21-aikido.3.tgz"
+  checksum: 10c0/9fa1ba6692c94e84dc6671633175b4bbd7d4d594e2d017678a8585e29a69862f4e6008c5cf04871cf1151cfcc79f572565d391c402b88ed52225acfaeb3b900e
   languageName: node
   linkType: hard
 
@@ -3626,7 +3626,7 @@ __metadata:
 
 "unleash-server@file:../build::locator=unleash-docker%40workspace%3A.":
   version: 6.2.2
-  resolution: "unleash-server@file:../build#../build::hash=c676ea&locator=unleash-docker%40workspace%3A."
+  resolution: "unleash-server@file:../build#../build::hash=5f191b&locator=unleash-docker%40workspace%3A."
   dependencies:
     "@slack/web-api": "npm:^6.10.0"
     "@wesleytodd/openapi": "npm:^1.1.0"
@@ -3688,7 +3688,7 @@ __metadata:
     type-is: "npm:^1.6.18"
     unleash-client: "npm:6.1.1"
     uuid: "npm:^9.0.0"
-  checksum: 10c0/7f6e6a442a6ecaabd9d85b85a2a8200ed12c8c1a140ed96fd77f2391cbbd7b3eb38f1d46c5c6d131519e5c21e645928441357c525f1b30924b3aa5efbe4de7cf
+  checksum: 10c0/fd9f08244905306a123f5355622f60b3192c42c902e61fa4d4a9e1d06cec59a086746e1fa9fef0f35f98f9537bdfcfd9266fa194ed3f14e27d30a1cbafd3d759
   languageName: node
   linkType: hard
 
